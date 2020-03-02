@@ -10,7 +10,7 @@ go to your .zshrc file and change ZSH_THEME to this new one
 
 ```
 $ cd ~/.zshrc
-ZSH_THEME=minimal_improve
+ZSH_THEME=nuts
 ```
 
 <p>
